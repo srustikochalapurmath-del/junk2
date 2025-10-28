@@ -1,8 +1,10 @@
-# Program to perform arithmetic operations
+# Program to perform arithmetic operations (no user input)
 
-# Taking input from the user
-a = float(input("Enter first number: "))
-b = float(input("Enter second number: "))
+a = 10
+b = 3
+
+print("First number:", a)
+print("Second number:", b)
 
 # Performing operations
 print("\nArithmetic Operations:")
